@@ -12,7 +12,7 @@
 <body>
 	<main>
 		<nav>
-			<h1>Bordes animados</h1>
+			<h1>Bordes animados y divertidos</h1>
 			<div class="contenedor-botones">
 				<div class="item uno">Lef to Right</div>
 				<div class="item dos">Lef to Left</div>
